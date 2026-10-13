@@ -449,6 +449,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Faivelo](https://faivelo.com/ai-agents) `https://faivelo.com/api/mcp`
   [![Faivelo MCP connector](https://glama.ai/mcp/connectors/com.faivelo/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.faivelo/mail)
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
+- [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
+  🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
